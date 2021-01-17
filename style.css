@@ -3,19 +3,15 @@ body {
 }
 
 header {
-  background: rgb(251, 97, 103);
-  background: linear-gradient(
-    90deg,
-    rgba(251, 97, 103, 1) 0%,
-    rgba(236, 5, 102, 1) 100%
-  );
+  /* background: rgb(251, 97, 103); */
+  background: linear-gradient(90deg, #091739 0%, #3a455d 100%);
   font-size: 40px;
   color: #fff;
   border-radius: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
   /* border: 1px solid black; */
   box-shadow: rgba(0, 0, 0, 0.15) 4.4px 4.4px 13.2px;
-  font-family: "Sacramento", cursive;
+  font-family: "Sofia", cursive;
   overflow: hidden;
 
   position: fixed;
